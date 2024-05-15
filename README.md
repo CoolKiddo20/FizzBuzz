@@ -1,0 +1,2 @@
+# FizzBuzz
+JS ga kirish
